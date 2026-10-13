@@ -1,0 +1,6 @@
+./enigme/q1.png ./enigme/r1.png ./enigme/r2.png ./enigme/r3.png 1
+./enigme/q2.png ./enigme/r11.png ./enigme/r22.png ./enigme/r33.png 2
+./enigme/q3.png ./enigme/r111.png ./enigme/r222.png ./enigme/r333.png 2
+./enigme/q4.png ./enigme/r1111.png ./enigme/r2222.png ./enigme/r3333.png 2
+
+
